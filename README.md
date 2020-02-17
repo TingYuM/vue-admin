@@ -1,4 +1,4 @@
-# hm-news-admin
+# news-admin
 
 ## Project setup
 ```
